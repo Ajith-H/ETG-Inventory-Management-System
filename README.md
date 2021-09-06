@@ -25,7 +25,7 @@ The whole working has been wrapped into an inventory class and uses JSON files t
 ##### 9. Display the purchase details
 
 ### Concepts 
-
+#### Basic python concepts like dictionaries and lists
 #### Simple Class used to implement the whole inventory 
 #### File handling to store the inventory details, sales and purchase details into a JSON file and also bill generated can be saved into a txt file
 #### PrettyTable module for displaying various data in the form of tables
