@@ -1,0 +1,35 @@
+{
+        "1111": {
+                "date": "2021-09-06",
+                "product_id": "1030",
+                "name": "Hide and seek",
+                "quantity": "25",
+                "category": "Biscuits",
+                "company": "Parle",
+                "pprice": "15",
+                "sprice": "20",
+                "closing_stock": "25"
+        },
+        "1112": {
+                "date": "2021-09-06",
+                "product_id": "1034",
+                "name": "Paper clip",
+                "quantity": "20",
+                "category": "Stationary",
+                "company": "Kangaroo",
+                "pprice": "35",
+                "sprice": "50",
+                "closing_stock": "20"
+        },
+        "1113": {
+                "date": "2021-09-06",
+                "product_id": "1032",
+                "name": "Ink Pen",
+                "quantity": "5",
+                "category": "Stationary",
+                "company": "Parker",
+                "pprice": "120",
+                "sprice": "120",
+                "closing_stock": "35"
+        }
+}

@@ -1,0 +1,240 @@
+{
+        "1001": {
+                "name": "Kit-Kat",
+                "category": "Chocolate",
+                "price": "20",
+                "company": "Nestle",
+                "quantity_left": "50"
+        },
+        "1002": {
+                "name": "Kit-Kat",
+                "category": "Chocolate",
+                "price": "40",
+                "company": "Nestle",
+                "quantity_left": "30"
+        },
+        "1003": {
+                "name": "5-Star",
+                "category": "Chocolate",
+                "price": "10",
+                "company": "Cadbury",
+                "quantity_left": "30"
+        },
+        "1004": {
+                "name": "5-Star",
+                "category": "Chocolate",
+                "price": "20",
+                "company": "Cadbury",
+                "quantity_left": "40"
+        },
+        "1005": {
+                "name": "Dairy Milk Silk",
+                "category": "Chocolate",
+                "price": "20",
+                "company": "Cadbury",
+                "quantity_left": "30"
+        },
+        "1006": {
+                "name": "Dairy Milk Silk",
+                "category": "Chocolate",
+                "price": "50",
+                "company": "Cadbury",
+                "quantity_left": "20"
+        },
+        "1007": {
+                "name": "Dairy Milk Silk",
+                "category": "Chocolate",
+                "price": "100",
+                "company": "Cadbury",
+                "quantity_left": "10"
+        },
+        "1008": {
+                "name": "Lays-Green",
+                "category": "Snacks(Chips)",
+                "price": "20",
+                "company": "Lays",
+                "quantity_left": "50"
+        },
+        "1009": {
+                "name": "Lays-Red",
+                "category": "Snacks(Chips)",
+                "price": "20",
+                "company": "Lays",
+                "quantity_left": "60"
+        },
+        "1010": {
+                "name": "Lays-Blue",
+                "category": "Snacks(Chips)",
+                "price": "20",
+                "company": "Lays",
+                "quantity_left": "50"
+        },
+        "1011": {
+                "name": "Butter",
+                "category": "Dairy product",
+                "price": "50",
+                "company": "Amul",
+                "quantity_left": "20"
+        },
+        "1012": {
+                "name": "Butter",
+                "category": "Dairy product",
+                "price": "50",
+                "company": "Mother-Diary",
+                "quantity_left": "20"
+        },
+        "1013": {
+                "name": "Paneer",
+                "category": "Dairy product",
+                "price": "110",
+                "company": "Milky-Mist",
+                "quantity_left": "10"
+        },
+        "1014": {
+                "name": "Chocolate ice cream",
+                "category": "Dairy product",
+                "price": "50",
+                "company": "Kwality Walls",
+                "quantity_left": "15"
+        },
+        "1015": {
+                "name": "Strawberry ice cream",
+                "category": "Dairy product",
+                "price": "50",
+                "company": "Kwality Walls",
+                "quantity_left": "15"
+        },
+        "1016": {
+                "name": "Butter Scotch ice cream",
+                "category": "Dairy product",
+                "price": "50",
+                "company": "Kwality Walls",
+                "quantity_left": "15"
+        },
+        "1017": {
+                "name": "Fruit juice 1L",
+                "category": "Beverages",
+                "price": "100",
+                "company": "Tropicana",
+                "quantity_left": "10"
+        },
+        "1018": {
+                "name": "Fruit juice 1L",
+                "category": "Beverages",
+                "price": "80",
+                "company": "Real",
+                "quantity_left": "10"
+        },
+        "1019": {
+                "name": "Frooti 300mL",
+                "category": "Beverages",
+                "price": "20",
+                "company": "Frooti",
+                "quantity_left": "10"
+        },
+        "1020": {
+                "name": "Appy Juice",
+                "category": "Beverages",
+                "price": "10",
+                "company": "Parle Agro",
+                "quantity_left": "10"
+        },
+        "1021": {
+                "name": "Ball-point pen",
+                "category": "Stationary",
+                "price": "5",
+                "company": "Cello",
+                "quantity_left": "40"
+        },
+        "1022": {
+                "name": "Gel pen",
+                "category": "Stationary",
+                "price": "10",
+                "company": "Reynolds",
+                "quantity_left": "45"
+        },
+        "1023": {
+                "name": "Notebook-100pgs",
+                "category": "Stationary",
+                "price": "30",
+                "company": "Classmate",
+                "quantity_left": "3"
+        },
+        "1024": {
+                "name": "Notebook-200pgs",
+                "category": "Stationary",
+                "price": "50",
+                "company": "Classmate",
+                "quantity_left": "14"
+        },
+        "1025": {
+                "name": "Pencil",
+                "category": "Stationary",
+                "price": "5",
+                "company": "Apsara",
+                "quantity_left": "50"
+        },
+        "1026": {
+                "name": "Pencil",
+                "category": "Stationary",
+                "price": "5",
+                "company": "Natraj",
+                "quantity_left": "160"
+        },
+        "1027": {
+                "name": "Parle-G",
+                "category": "Biscuits",
+                "price": "10",
+                "company": "Parle",
+                "quantity_left": "20"
+        },
+        "1028": {
+                "name": "Britania Bourbon",
+                "category": "Biscuits",
+                "price": "20",
+                "company": "Britania",
+                "quantity_left": "15"
+        },
+        "1029": {
+                "name": "Oreo",
+                "category": "Biscuits",
+                "price": "30",
+                "company": "Cadbury",
+                "quantity_left": "15"
+        },
+        "1030": {
+                "name": "Hide and seek",
+                "category": "Biscuits",
+                "price": "20",
+                "company": "Parle",
+                "quantity_left": "25"
+        },
+        "1031": {
+                "name": "Ink Pen",
+                "category": "Stationary",
+                "price": "55",
+                "company": "Hero",
+                "quantity_left": "60"
+        },
+        "1032": {
+                "name": "Ink Pen",
+                "category": "Stationary",
+                "price": "120",
+                "company": "Parker",
+                "quantity_left": "35"
+        },
+        "1033": {
+                "name": "Scale",
+                "category": "Stationary",
+                "price": "10",
+                "company": "Natraj",
+                "quantity_left": "128"
+        },
+        "1034": {
+                "name": "Paper clip",
+                "category": "Stationary",
+                "price": "50",
+                "company": "Kangaroo",
+                "quantity_left": "20"
+        }
+}

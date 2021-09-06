@@ -1,0 +1,52 @@
+{
+        "1001": {
+                "date": "2021-09-05",
+                "product_id": "1034",
+                "name": "Scale",
+                "quantity": "9",
+                "rate": "10",
+                "discount": "50",
+                "amount": "45.0",
+                "closing_stock": "90"
+        },
+        "1002": {
+                "date": "2021-09-06",
+                "product_id": "1022",
+                "name": "Gel pen",
+                "quantity": "5",
+                "rate": "10",
+                "discount": "0",
+                "amount": "50",
+                "closing_stock": "45"
+        },
+        "1003": {
+                "date": "2021-09-06",
+                "product_id": "1023",
+                "name": "Notebook-100pgs",
+                "quantity": "2",
+                "rate": "30",
+                "discount": "2",
+                "amount": "1.2",
+                "closing_stock": "3"
+        },
+        "1004": {
+                "date": "2021-09-06",
+                "product_id": "1024",
+                "name": "Notebook-200pgs",
+                "quantity": "1",
+                "rate": "50",
+                "discount": "2",
+                "amount": "1.0",
+                "closing_stock": "14"
+        },
+        "1005": {
+                "date": "2021-09-06",
+                "product_id": "1033",
+                "name": "Scale",
+                "quantity": "2",
+                "rate": "10",
+                "discount": "0",
+                "amount": "20",
+                "closing_stock": "128"
+        }
+}
