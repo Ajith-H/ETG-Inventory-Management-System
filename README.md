@@ -16,7 +16,7 @@ The whole working has been wrapped into an inventory class and uses JSON files t
 ### Contains the following functionalities : 
 ##### 1. Display the whole inventory
 ##### 2. Display single item in the inventory
-##### 3. Purchase new items into the inventory
+##### 3. Purchase new items for the inventory
 ##### 4. Delete an item from the inventory
 ##### 5. Update/edit details in the inventory
 ##### 6. Record new sales from the inventory
